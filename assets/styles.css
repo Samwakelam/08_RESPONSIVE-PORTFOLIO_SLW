@@ -133,7 +133,7 @@ a.nav-link:hover {
     padding: 0;
 }
 
-div.row, footer.row {
+.row {
     /* border: 1px solid blue; */
     min-width: 100px;
     min-height: 100px;
@@ -142,7 +142,7 @@ div.row, footer.row {
     padding: 5px;
 }
 
-div.row-nested {
+.row-nested {
   margin: 0;
   padding: 0px;
   /* border: 5px solid black; */
@@ -172,7 +172,7 @@ div.col-1, div.col-2, div.col-10 {
   padding: 0;
 }
 
-div.w-padding {
+.w-padding {
   padding: 0 15px;
 }
 
