@@ -42,9 +42,9 @@ h5 {
         background-color: unset;
       }
       
-      .black-border, img.black-border {
+    .black-border, img.black-border {
         border: unset;
-      }
+    }
 
 }
 
@@ -57,11 +57,11 @@ h5 {
 
     .white-background {
         background-color: unset;
-      }
+    }
       
-      .black-border, img.black-border {
+    .black-border, img.black-border {
         border: unset;
-      }
+    }
 
 }
 
@@ -74,14 +74,12 @@ h5 {
 
     .white-background {
         background-color: unset;
-      }
+    }
       
-      .black-border, img.black-border {
+    .black-border, img.black-border {
         border: unset;
-      }
-
+    }
 }
-
 
 /* Large devices (desktops, 992px and up) */
 @media screen and (min-width: 992px) and (max-width: 1199.98px) { 
