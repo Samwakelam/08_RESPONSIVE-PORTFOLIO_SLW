@@ -43,6 +43,10 @@ p, li {
     margin: 0;
 }
 
+ol.carousel-indicators>li {
+  background-color:  rgb(225,128,41);
+}
+
 div.paragraph-details{
   background-color: white;
   border-radius: 2px;
