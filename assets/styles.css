@@ -218,7 +218,7 @@ footer.row {
 /* Small devices (landscape phones, 576px and up) */
 @media screen and (min-width: 576px) and (max-width: 767.98px) { 
   
-  l.main-nav {
+  ul.main-nav {
     transform: translateY(00%);
   }
   .nav {

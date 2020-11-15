@@ -59,12 +59,17 @@ a.detail-link:hover {
     #portfolio-title {
         display: none;
     }
+
+    
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) and (max-width: 991.98px) {
 
-    
+    ul.main-nav {
+        transform: translateY(00%);
+      }
+      
 
 }
 
@@ -78,4 +83,4 @@ a.detail-link:hover {
 /* Extra large devices (large desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
     
- }
+}
