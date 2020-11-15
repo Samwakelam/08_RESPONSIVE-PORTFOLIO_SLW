@@ -29,6 +29,17 @@ div#logo-container {
     margin: 0 40px 0 0;
 }
 
+a.detail-link{
+    color: rgb(48,45,52);
+}
+
+a.detail-link:hover {
+    background-color: rgb(225,128,41);
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(48,45,52);
+}
+
 /* Extra small devices (portrait phones, less than 576px) */
 @media screen and (max-width: 575.98px) {
     

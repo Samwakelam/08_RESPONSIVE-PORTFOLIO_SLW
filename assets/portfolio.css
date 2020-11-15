@@ -26,10 +26,6 @@ h5 {
    
 }
 
-ol.carousel-indicators>li {
-    background-color:  rgb(225,128,41);
-}
-
 .bottom-align {
     position: absolute;
     bottom: 0px;
