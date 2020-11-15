@@ -40,6 +40,10 @@ a.detail-link:hover {
     color: rgb(48,45,52);
 }
 
+div.design-skills>a>img {
+    margin: 10px ;
+}
+
 /* Extra small devices (portrait phones, less than 576px) */
 @media screen and (max-width: 575.98px) {
     
