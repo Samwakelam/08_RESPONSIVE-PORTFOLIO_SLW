@@ -10,11 +10,12 @@ Aside from design, I have had a lot of fun with the media queries and Bootstrapâ
 
 ## Contents 
 
-1. Installation
-2. Usage 
-3. Improvements
-4. Credits
-5. License
+1. [Installation](#installation)
+2. [Usage](#useage)
+3. [Improvements](#index)
+4. [Updates](#updates)
+5. [Credits](#credits)
+6. [License](#license)
 
 
 ## Installation
@@ -53,6 +54,8 @@ Click each large tile to be taken to another tab showcasing each project, or alt
 
 ## Improvements
 
+### From Previous 02_Portfolio
+
 Improvements that i would like to highlight from my last porfolio are: 
 
 1. The use of popovers rather than tooltips to better present text and additional information with the skills badges. 
@@ -74,6 +77,15 @@ Improvements that i would like to highlight from my last porfolio are:
 ![Design popovers](assets/images/screenshots/Design-skills-popover.png)
 
 the popovers show over each other and have to be clicked again to remove. There could be a way (probably javascript) to remove the first when another is clicked. 
+
+## Updates
+
+(28.01.2021) 
+- Popovers are now dissabled when focus is no longer on the item. 
+- University badges stack better for mobile response. 
+- Github profile link added to contacts 
+- Computer skills stack better for mobile response. 
+- Projects updated with Major Project 2 and best selection of deployed weekly projects. 
 
 ## Credits
 
